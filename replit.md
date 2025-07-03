@@ -1,8 +1,8 @@
-# ✈️ Airline Booking Market Demand Analysis
+# ✈️ Australian Flight Market Analysis - Internship Test Project
 
 ## Overview
 
-This is a Streamlit-based web application designed for analyzing airline booking demand data, built as an internship application project. The application provides interactive dashboards with filtering capabilities, data visualizations, and detailed insights into booking patterns, price trends, and demand forecasting. This project demonstrates essential data analysis skills, clean coding practices, and professional presentation suitable for a fresher developer applying for data analyst internship positions.
+This is a comprehensive web application built for an internship test assignment that demonstrates web scraping, API integration, and data analysis capabilities. The application scrapes real flight booking data from Australian domestic routes, integrates with OpenAI's API for intelligent insights, and provides an interactive dashboard for analyzing airline market demand trends. Built from the perspective of a fresher developer applying for internships, showcasing practical problem-solving and real-world development skills.
 
 ## System Architecture
 
@@ -91,21 +91,33 @@ This is a Streamlit-based web application designed for analyzing airline booking
 ## Changelog
 
 - July 03, 2025: Initial setup with basic airline data analysis functionality
-- July 03, 2025: Enhanced application for internship presentation with professional context, technical showcase tab, comprehensive documentation, and beginner-friendly explanations
+- July 03, 2025: Enhanced application for internship presentation with professional context
+- July 03, 2025: Complete rewrite for internship test project - added web scraping, API integration, and authentic fresher developer perspective
 
 ## Recent Changes
 
-### Internship Application Enhancement (July 03, 2025)
-- Added professional internship application context to header and documentation
-- Created "Technical Implementation Showcase" tab highlighting coding skills and best practices
-- Enhanced error handling and user feedback with educational context
-- Added comprehensive skills demonstration section with technical competencies
-- Updated README.md with learning outcomes, growth trajectory, and professional presentation
-- Restructured project documentation to showcase development journey and capabilities
-- Added detailed technical specifications and implementation explanations for reviewers
+### Complete Project Rewrite for Internship Test (July 03, 2025)
+- Rebuilt entire application to match specific internship test requirements
+- Added web scraping functionality for real flight data collection using BeautifulSoup
+- Integrated OpenAI API for AI-powered market insights and trend analysis
+- Focused on Australian domestic flight market as specified in test requirements
+- Implemented realistic data generation when scraping is blocked (common beginner challenge)
+- Added comprehensive error handling and user feedback
+- Created authentic fresher developer voice throughout codebase and documentation
+- Built 4-tab analysis interface: Popular Routes, Price Analysis, Booking Patterns, AI Insights
+- Added real-time data filtering and interactive visualizations
+- Updated README with proper fresher developer learning journey and challenges faced
+
+### Key Technical Features Added
+- BeautifulSoup web scraping implementation
+- OpenAI ChatGPT API integration for market analysis
+- Australian cities and airlines data focus
+- Realistic pricing algorithms based on route popularity
+- Advanced booking pattern analysis (day of week, advance booking time)
+- Interactive Plotly visualizations with proper error handling
 
 ## User Preferences
 
-Preferred communication style: Simple, everyday language.
-Project Purpose: Internship application demonstration for fresher Python developer position.
-Focus: Showcase beginner-friendly code with professional presentation and comprehensive documentation.
+Preferred communication style: Simple, everyday language that sounds like a fresher developer.
+Project Purpose: Internship test project submission demonstrating web scraping, API integration, and data analysis.
+Focus: Authentic beginner developer approach with genuine learning enthusiasm and realistic challenges faced.
