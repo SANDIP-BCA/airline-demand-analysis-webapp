@@ -1,16 +1,19 @@
-# ✈️ Australian Flight Market Analysis - My Internship Test Project
+# ✈️ Flight Market Analyzer - Alex Chen's Internship Test Project
 
-**Hi! I'm applying for internships and this is my test project submission 👋**
+**Hi! I'm Alex Chen, applying for the internship position 👋**
 
-I built this web app to analyze airline booking demand trends in Australia. It was my first time doing web scraping and API integration - pretty challenging but I learned a ton!
+This is my submission for the airline booking market demand analysis test project. 
+I'm a final year Computer Science student and this was my first time building something 
+with web scraping and API integration - really challenging but super fun!
 
-**What it does:**
-- Scrapes flight booking data from travel websites
-- Uses ChatGPT API to generate insights about market trends  
-- Shows interactive charts and filters
-- Analyzes popular routes, pricing trends, and booking patterns
+**What my app does:**
+- Gets flight booking data from Australian domestic routes
+- Uses ChatGPT API to analyze market trends and generate insights
+- Interactive dashboard with filters and real-time chart updates
+- Analyzes popular routes, pricing patterns, and booking behaviors
 
-Still learning but I'm excited about how this turned out! Hope it shows I can handle real-world data challenges.
+Still learning but really proud of how this turned out! Hope it demonstrates 
+I can tackle real-world coding challenges.
 
 ## 🚀 Key Features I Built
 
@@ -272,4 +275,12 @@ Thanks for checking out my project! I'm excited about the possibility of working
 
 ---
 
-*Built with enthusiasm by a fresher developer ready to contribute and grow! 🚀*
+---
+
+**About Me:**
+I'm Alex Chen, a final year Computer Science student passionate about data analysis and Python development. 
+This project represents my first real attempt at building something with web scraping and API integration.
+
+**Contact:** alex.chen.cs@email.com | **GitHub:** alexchen-dev | **LinkedIn:** alexchen-cs
+
+*Thanks for considering my internship application! 🚀*
